@@ -54,5 +54,29 @@ Password - testing
 
 If you encounter any difficulties please email terrymarcy20002yahoo.com 
 
+#FEATURES
+1.		User authentication -	The system must ensure that only authenticated users  have access to sensitive information using “Secure Hash Algorithm (SHA)” and verification code
+2.		Password Management	- The system must allow registered members change or retrieve lost password
+3.		Sign up mechanism	- The system should allow the registration of students and lecturers for online access.
+4.		Profile Management	- The system must ensure that students and lecturers are able to view and manage their online profile e.g. change profile picture, display name, etc.
+5.		Request Information / Subscribe to newsletter	- The system must allow potential students to request information about programs they are interested in
+6.		Manage Feedback	The system must ensure that the administrator is able to view and reply requests, comments or questions asked by the potential students.
+7.		Upload Course Resources	The system must ensure that Lecturers are able to upload course material for their respective modules.
+8.		Download Course Resources - The system must ensure that students who have been enrolled are able to download course content (resources) from the portal.
+9.		Download  / Submit Assignment - The system should ensure that students are able to download assignments and submit their completed assignments to the portal.
+10.		Upload / Download Assignment - The system should ensure that lecturers are able to upload assignments and download submitted assignments.
+11.		Schedule Exam - The system should allow Lecturers to schedule exams 
+12.		Take Exam - The system should allow Students to take scheduled exams
+13.		Upload Result - The system should ensure that lecturers are able to upload students’ grade to the portal.
+14.		View Result (Grade) -	The system should ensure that students are able to view their grades.
+15.		View Module Offer List	- The system should ensure that students are able to view modules offered for the current semester
+16.		Social Interaction	- The system must ensure that students from different geographical locations are able to interact with one another.
+17.		Course Management	- The system must ensure that the administrator is able to add and remove courses from the portal.
+18.		Semester Registration	- The system must ensure that the administrator is able to enroll students for a new semester in the event that students are not able to complete enrollments on their own.
+19.		Responsive Layout  	- The system must display correctly on tablets, PC’s and mobile devices in real time
+20.		Block Nude Images	- The system must prevent users from uploading nude, harmful, or partially nude images to the portal  
+21.		Send Notifications  - The system must be able to send SMS notifications
+
+
 
 
