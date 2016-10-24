@@ -1,0 +1,53 @@
+.clear_both{clear: both; line-height: 1px;}
+
+.video_gallery_container{
+    padding: 25px 0 25px 115px;
+    border: 2px solid #444;
+    width: 80%;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    background: #000000 url("../images/filmstrip_tile.png") repeat-y 0 0;
+}
+
+a.videoLink{
+    display: block;
+    padding: 0;
+    margin: 0 15px 15px 0;
+    width: 200px;
+    height: 115px;
+    float: left;
+    position: relative;
+    cursor: pointer;
+    background: #555 no-repeat 0 0;
+    border: 1px solid #000;
+}
+
+a.videoLink:hover{border-color: #fff;}
+
+a.videoLink img.play{position: absolute;top: 25px;left: 75px;}
+
+a.videoLink div.caption{position: absolute; width: 180px;
+    bottom: 0; padding: 15px 10px 10px 10px;
+    color: #fff;
+    background-color: rgba(0,0,0,.5);
+    font-family: Arial;
+    font-size: 12px;
+}
+
+@media only screen and (min-width:150px) and (max-width:600px){
+    /*CLASS STYLE */
+    .video_gallery_container{
+        padding:2px;
+        border: 0;
+        width: 100%;
+    }
+
+    a.videoLink{
+        width: 98%;
+    }
+
+    a.videoLink div.caption{position: absolute; width: 96%;
+        bottom: 0; padding: 15px 10px 10px 10px;
+    }
+}

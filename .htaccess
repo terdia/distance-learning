@@ -1,0 +1,6 @@
+
+IndexIgnore *
+
+# Render pages without their extension
+
+Options +MultiViews

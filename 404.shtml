@@ -1,0 +1,73 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Embedded Cloud Based Distance Learning Portal For FTMS College | Page not found</title>
+
+    <?php include_once("view/header.php");?>
+    
+    <div id="mainContent">
+        
+        <div class="spacer" style="clear: both;"></div>     
+        
+        <div class="topContent">   
+        <div class="contactDetails">
+        	<article>
+            
+            <header>
+             <h4 id="home"><strong>FTMS College Online Education - Page not found</strong></h4>
+            
+            <div  class="mobile"><h4><strong>No matching page / content found</strong></h4></div>
+
+            </header>
+
+            	<content>
+                    <p>
+                    The content your are loking for is currently unavailable.
+                    </p>
+                    <p style="width:97%;"><a href="index" class="readMore orange" title="Back to previous Page">Back to previous Page</a></p>
+                </content>
+                
+            </article>
+        </div>
+        
+        <div class="contactMap">
+        	<article>
+            
+            	<header>
+             <h4><strong>Location Map</strong></h4>
+            </header>
+            
+            	<content>
+               		<p> 
+					<iframe width="100%" frameborder="0" class="mapHeight" 
+                    scrolling="no" marginheight="0" marginwidth="0" 
+                    src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=FTMS+College+Technology+Park+Malaysia&amp;aq=&amp;sll=4.689292,100.897472&amp;sspn=6.959696,9.876709&amp;ie=UTF8&amp;hq=FTMS+College+Technology+Park+Malaysia&amp;hnear=&amp;ll=4.689292,100.897472&amp;spn=6.959696,9.876709&amp;t=m&amp;output=embed"></iframe> </p>
+                </content>
+                
+            </article>
+        </div>
+        
+        
+        </div>
+        
+        <div class="spacer" style="clear: both;"></div>
+
+
+			<div class="mainFooter">
+ 				
+        <div class="topContent"> <?php include_once('view/footer.php'); ?> </div>
+              
+        <div class="spacer" style="clear: both;"></div>
+           
+
+        </div><!--Top Content end here-->     
+    </div>
+    
+            <div id="request">
+            <?php include_once('view/requestform.php'); ?>
+            </div>
+</div>
+</body>
+
+</html>
