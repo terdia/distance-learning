@@ -1,9 +1,11 @@
-# PHP Distance learning System by Terry Osayawe - 2014 
+# Welcome to the distance-learning wiki! 
 
-#Installation Guide
+## PHP Distance learning System by Terry Osayawe - 2014 
+
+##Installation Guide
 In other to run the successfully run the system on your local machine the following steps must be followed carefully:
 
-Step 1: Download and Install Wamp Server – you may refer to this link for the required steps to download and install Wamp server http://www.slideshare.net/triniwiz/wamp-20949805 
+Step 1: Download and Install Wamp Server – you may refer to this link for the required steps to download and install Wamp server https://youtu.be/b70Blo6YyZs
 
 Step 2: Open the folder name “System” inside the “project – u1061882” folder, you will see a zip file name “distance_learning.zip” copy it to your desktop.
 
@@ -17,9 +19,8 @@ Step 6: The next step is to install the database, to do that Open your web brows
     
     1)	Click on import  
     
-    2)	Click on browse and navigate to the folder named “project – u1061882”, open it you will see another folder name “Database” open it and select the file “project.sql”  
-    
-    Click Go  
+    2)	Click on browse and navigate to the folder named “project – u1061882”, open it you will 
+see another folder name “Database” open it and select the file “project.sql”  Click Go  
 
 Step 7: Configure database connection string – navigate to the folder “distance_learning” which was copied to “www” folder inside “Wamp” folder in your C: drive. 
 C:\wamp\www\distance_learning\connection
@@ -36,7 +37,7 @@ Step 8: Viewing the system – type http://localhost/distance_learning/ in your 
 
 You many use the following data to access existing accounts
 
-#STUDENT ACCOUNT:
+###STUDENT ACCOUNT:
 For student click on “Student Login” and enter the following:
  
 Username: joy@yahoo.com	
@@ -44,17 +45,17 @@ Password: testing
 
 For admin and Lecturer account click on “staff login” in the footer of the page
  
-#ADMIN ACCOUNT:
+###ADMIN ACCOUNT:
 Username – terrymarcy2000@yahoo.com
 Password – 17-May-1983
 
-LECTURER ACCOUNT:
+###LECTURER ACCOUNT:
 Username – riyaz@ftms.edu.my 
 Password - testing
 
-If you encounter any difficulties please email terrymarcy20002yahoo.com 
+If you encounter any difficulties please email terrymarcy2000@yahoo.com 
 
-#FEATURES
+###FEATURES
 1.		User authentication -	The system must ensure that only authenticated users  have access to sensitive information using “Secure Hash Algorithm (SHA)” and verification code
 2.		Password Management	- The system must allow registered members change or retrieve lost password
 3.		Sign up mechanism	- The system should allow the registration of students and lecturers for online access.
@@ -76,7 +77,3 @@ If you encounter any difficulties please email terrymarcy20002yahoo.com
 19.		Responsive Layout  	- The system must display correctly on tablets, PC’s and mobile devices in real time
 20.		Block Nude Images	- The system must prevent users from uploading nude, harmful, or partially nude images to the portal  
 21.		Send Notifications  - The system must be able to send SMS notifications
-
-
-
-
